@@ -1,0 +1,63 @@
+[
+  {
+    "name": "hellojammy",
+    "avater": "http://hello1010.com/content/images/2015/01/0-1.jpg",
+    "tags": ["移动开发", "Web前端开发", "微信公众号开发", "ASP.NET", "软件架构设计"],
+    "site": "http://hello1010.com/"
+  }, {
+    "name": "二锅头",
+    "avater": "http://noblog.xyz/content/images/2015/01/baili.png",
+    "tags": ["WEB前端", "杂记"],
+    "site": "http://noblog.xyz/"
+  },{
+    "name": "风在咆哮心在跳",
+    "avater": "http://windisco.qiniudn.com/avatar_128*128.jpg",
+    "tags": ["iOS开发", "算法", "游戏"],
+    "site": "http://windisco.com/"
+  },{
+    "name": "iFriskit Pro",
+    "avater": "http://friskit-blog.qiniudn.com/b/32/aa62b93378a96475bc81927f19cfa.png",
+    "tags": ["算法", "机器学习与深度学习", "各种开发etc"],
+    "site": "http://friskit.me/"
+  },{
+    "name": "蒋佳李",
+    "avater": "http://www.9ute.com/content/images/2015/01/jiangjiali.png",
+    "tags": ["音乐创作", "录音制作", "技术"],
+    "site": "http://www.9ute.com/"
+  },{
+    "name": "神楽坂立华",
+    "avater": "http://node.freedom.moe/content/images/2014/12/kuawa.png",
+    "tags": ["平面设计", "DIY", "电子爱好者"],
+    "site": "http://node.freedom.moe/"
+  },{
+    "name": "anly_zhang",
+    "avater": "http://mimg.127.net/p/js6/lib/img/noface.gif",
+    "tags": ["oracle", "数据库", "dba"],
+    "site": "http://www.anlyblog.org/"
+  },{
+    "name": "萌萌兔",
+    "avater": "http://blog.cuterabbit.cn/content/images/2015/01/color.png",
+    "tags": ["儿童智能", "定位手表"],
+    "site": "http://blog.cuterabbit.cn/"
+  },{
+    "name": "duwei",
+    "avater": "http://mimg.127.net/p/js6/lib/img/noface.gif",
+    "tags": ["web前端"],
+    "site": "http://www.blog123.cc/"
+  },{
+    "name": "Mido",
+    "avater": "http://i.imoe.moe/images/avatar.jpg",
+    "tags": ["程序", "前端"],
+    "site": "http://imoe.moe/"
+  },{
+    "name": "Patrick",
+    "avater": "http://dev2patrick.com/content/images/2015/01/head-1.png",
+    "tags": ["Android", "iOS", "开发"],
+    "site": "http://dev2patrick.com/"
+  },{
+    "name": "Z",
+    "avater": "http://www.znotes.info/content/images/2015/02/zhou.jpg",
+    "tags": ["DIY", "电子爱好者"],
+    "site": "http://www.znotes.info/"
+  }
+]
